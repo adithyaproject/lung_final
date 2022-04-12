@@ -1,8 +1,8 @@
-#### Lung Condition Checking Application
+## Lung Condition Checking Application
 
 ### This is a python based lung condition checking application powered by tensorflow and keras neural network
 
-## Technologies 
+#### Technologies 
 * Python 3.7
 * Tensorflow & Keras
 * Flask
